@@ -1,0 +1,618 @@
+[
+  {
+    "id": "item-001",
+    "type": "article",
+    "title": "Sample Article",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-002",
+    "type": "article-journal",
+    "title": "Sample Article-Journal",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-003",
+    "type": "article-magazine",
+    "title": "Sample Article-Magazine",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-004",
+    "type": "article-newspaper",
+    "title": "Sample Article-Newspaper",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-005",
+    "type": "bill",
+    "title": "Sample Bill",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-006",
+    "type": "book",
+    "title": "Sample Book",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-007",
+    "type": "broadcast",
+    "title": "Sample Broadcast",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-008",
+    "type": "chapter",
+    "title": "Sample Chapter",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-009",
+    "type": "classic",
+    "title": "Sample Classic",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-010",
+    "type": "collection",
+    "title": "Sample Collection",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-011",
+    "type": "dataset",
+    "title": "Sample Dataset",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-012",
+    "type": "document",
+    "title": "Sample Document",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-013",
+    "type": "entry",
+    "title": "Sample Entry",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-014",
+    "type": "entry-dictionary",
+    "title": "Sample Entry-Dictionary",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-015",
+    "type": "entry-encyclopedia",
+    "title": "Sample Entry-Encyclopedia",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-016",
+    "type": "event",
+    "title": "Sample Event",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-017",
+    "type": "figure",
+    "title": "Sample Figure",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-018",
+    "type": "graphic",
+    "title": "Sample Graphic",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-019",
+    "type": "hearing",
+    "title": "Sample Hearing",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-020",
+    "type": "interview",
+    "title": "Sample Interview",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-021",
+    "type": "legal_case",
+    "title": "Sample Legal Case",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-022",
+    "type": "legislation",
+    "title": "Sample Legislation",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-023",
+    "type": "manuscript",
+    "title": "Sample Manuscript",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-024",
+    "type": "map",
+    "title": "Sample Map",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-025",
+    "type": "motion_picture",
+    "title": "Sample Motion Picture",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-026",
+    "type": "musical_score",
+    "title": "Sample Musical Score",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-027",
+    "type": "pamphlet",
+    "title": "Sample Pamphlet",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-028",
+    "type": "paper-conference",
+    "title": "Sample Paper-Conference",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-029",
+    "type": "patent",
+    "title": "Sample Patent",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-030",
+    "type": "performance",
+    "title": "Sample Performance",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-031",
+    "type": "periodical",
+    "title": "Sample Periodical",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-032",
+    "type": "personal_communication",
+    "title": "Sample Personal Communication",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-033",
+    "type": "post",
+    "title": "Sample Post",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-034",
+    "type": "post-weblog",
+    "title": "Sample Post-Weblog",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-035",
+    "type": "report",
+    "title": "Sample Report",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-036",
+    "type": "review",
+    "title": "Sample Review",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-037",
+    "type": "review-book",
+    "title": "Sample Review-Book",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-038",
+    "type": "software",
+    "title": "Sample Software",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-039",
+    "type": "song",
+    "title": "Sample Song",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-040",
+    "type": "speech",
+    "title": "Sample Speech",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-041",
+    "type": "standard",
+    "title": "Sample Standard",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-042",
+    "type": "thesis",
+    "title": "Sample Thesis",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-043",
+    "type": "treaty",
+    "title": "Sample Treaty",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  },
+  {
+    "id": "item-044",
+    "type": "webpage",
+    "title": "Sample Webpage",
+    "author": [
+      {
+        "family": "Doe",
+        "given": "Jane"
+      }
+    ],
+    "issued": {
+      "date-parts": 2024
+    }
+  }
+]

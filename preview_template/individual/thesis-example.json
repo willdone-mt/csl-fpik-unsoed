@@ -1,0 +1,11 @@
+[{
+  "id": "item-002",
+  "type": "thesis",
+  "title": "Quantum Computing in Biological Systems",
+  "author": [{"family": "Smith", "given": "Jane"}],
+  "publisher": "University of Oxford",
+  "division": "Department of Physics",
+  "publisher-place": "Oxford, UK",
+  "genre": "PhD dissertation",
+  "issued": {"date-parts": [["2023"]]}
+}]
