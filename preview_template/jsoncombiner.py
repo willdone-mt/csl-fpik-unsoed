@@ -1,6 +1,9 @@
 import json
 import glob
 
+# ubah function di bawah agar menerima argument optional berupa tipe2 dafpus yang dipakai akhir2 ini
+# dan tambahkan skrip untuk mencampurkan tipe2 dafpus yang dipakai akhir2 ini agar mempermudah melihat contoh
+
 def merge_json_files(directory_path):
     merged_data = []
     # Find all json files
