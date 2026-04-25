@@ -31,6 +31,8 @@ Apabila membutuhkan berkasnya, maka:
 
 Lalu, ikuti salah satu bagian di bawah ini untuk tutorial instalasi templat
 
+Apabila instalasi templat tidak berhasil, gunakan versi [alpha dari templat ini disini](https://github.com/willdone-mt/csl-fpik-unsoed/releases/tag/v2018.1.1-alpha1)
+
 ### ✨ Mendeley
 
 - [Instalasi pada Mendeley **Desktop** v1.19.8](/tutorial/mendeley_desktop.md)

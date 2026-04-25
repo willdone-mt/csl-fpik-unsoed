@@ -28,6 +28,13 @@
   Apabila menggunakan dokumen yang sebelumnya menggunakan Mendeley Desktop, terkadang `Mendeley Cite` akan mengarahkan untuk memperbarui format plugin dari dokumen yang digunakan. Apabila hal ini terjadi, baca bagian `Pembaruan format plugin mendeley pada dokumen`, kemudian kembali ke sini
 
   1. Munculkan sidebar `Mendeley Cite`
+  2. > Login kalau belum
+  3. **Navigasi ke tab `Citation Settings`** di sidebar tersebut.
+  4. Di bagian `Citation Style`, klik `Change Citation style`
+  5. Klik `Add a custom style`
+  6. Masukkan tautan templat yang disalin
+  7. Di bagian bawah, klik `Update citation style`
+  8. Templat berhasil terinstal
 
 - Pembaruan format plugin Mendeley pada dokumen
 
