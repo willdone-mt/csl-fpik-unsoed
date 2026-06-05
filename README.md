@@ -9,6 +9,8 @@ Uploaded here for documentation
 
 ## Ringkasan
 
+gaya atribusi format TA FPIK 2018 merupakan adaptasi dari gaya atribusi American Psychological Association (APA Style)
+
 <!-- Format ... ini merupakan adaptasi dari gaya sitasi dan daftar pustaka dari ... .
 Citation Style Language adalah -->
 
@@ -79,8 +81,11 @@ Diharuskan membuat laporan penelitian agar perubahan dilakukan secara logis dan 
 
 ### Yang Harus dilakukan
 
-- [ ] Mengetahui dasar gaya atribusi TA FPIK (APA? IEEE?)
+- [X] Mengetahui dasar gaya atribusi TA FPIK (APA? IEEE?)
+- [ ] Menambah penjelasan dalam memilih pengelola referensi
 - [ ] Menambah tutorial untuk pengelola referensi lainnya
+- [ ] Membuat otomasi rilis (auto embed file2 penting sesudah dinamai otomatis)
+- [ ] Membuat template dokumen dalam Format TA FPIK (typst, docx, latex)
 
 ### Pranala Penting
 
