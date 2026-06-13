@@ -4,18 +4,24 @@
   <info>
     <title>APA Adapted for Format TA 2026 FPIK</title> 
     <title-short>Lorem Ipsum</title-short>
-    <id>c831c000-83f7-4e05-8ebc-b931a773e223</id>
-    <link href="" rel="self"/> <!-- @todo find a href url -->
+    <id>urn:uuid:c831c000-83f7-4e05-8ebc-b931a773e223</id>
+    <link href="https://github.com/willdone-mt/csl-fpik-unsoed" rel="self"/> <!-- @todo find a href url -->
     <link href="https://apastyle.apa.org/style-grammar-guidelines/references" rel="documentation"/>
-<!-- @todo need to establish authot name -->
+    <!-- @todo need to establish author name -->
     <author>
-      <name></name>
-      <email></email>
-      <uri></uri>
+      <name>Wildan Mufti Mursalin</name>
+      <email>wildan.mursalin@mhs.unsoed.ac.id</email>
     </author>
+
     <author>
       <name>APA Authors (Brenton M. Wiernik, Andrew Dunning)</name>
     </author>
+
+    <contributor>
+      <name>Talitha Nada Aristawati</name>
+      <uri>talitha.aristawati@mhs.unsoed.ac.id</uri>
+    </contributor>
+
     <category citation-format="author-date"/>
     <category field="anthropology"/> 
     <category field="communications"/>
@@ -26,7 +32,7 @@
     <category field="social_science"/>
     <category field="sociology"/>
     <summary>Author-date system of the Publication Manual of the American Psychological Association (2020)</summary>
-    <updated>2026-02-14T01:18:34+00:00</updated>
+    <updated>2026-06-10T00:00:00+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <locale xml:lang="en">
