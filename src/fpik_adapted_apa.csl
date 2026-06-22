@@ -4,7 +4,7 @@
   <info>
     <title>APA Adapted for Format TA 2026 FPIK</title> 
     <title-short>Lorem Ipsum</title-short>
-    <id>urn:uuid:c831c000-83f7-4e05-8ebc-b931a773e223</id>
+    <id>https://github.com/willdone-mt/csl-fpik-unsoed</id>
     <link href="https://github.com/willdone-mt/csl-fpik-unsoed" rel="self"/> <!-- @todo find a href url -->
     <link href="https://apastyle.apa.org/style-grammar-guidelines/references" rel="documentation"/>
     <!-- @todo need to establish author name -->
